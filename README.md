@@ -1,4 +1,4 @@
-# Repositório Padrão ASP.NET
+# Repositório Padrão ASP.NET [![ASP .NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-8.0)
 
 Este repositório fornece uma estrutura padrão para projetos ASP.NET, incluindo uma `BaseEntity`, `BaseController` e `Repository` para facilitar a criação de aplicações ASP.NET robustas e escaláveis. O projeto utiliza o Entity Framework Core com o provedor de banco de dados MySQL (Pomelo), além de Swagger para documentação de APIs. Inclui configuração centralizada para conexão com o banco de dados, logging e tratamento de erros usando Middlewares. Ideal para desenvolvedores que buscam um ponto de partida consistente para projetos ASP.NET com uma configuração já otimizada para produção.
 
